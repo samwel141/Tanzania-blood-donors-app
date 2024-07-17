@@ -1,0 +1,43 @@
+/* eslint-disable prettier/prettier */
+const images = {
+    enter: require('../../../assets/images/enter.png'),
+    back: require('../../../assets/images/options.png'),
+    option: require('../../../assets/images/option.png'),
+    filter: require('../../../assets/images/filter.png'),
+    clock: require('../../../assets/images/clock.png'),
+    qrCode: require('../../../assets/images/qr-code.png'),
+    tracking: require('../../../assets/images/tracking.png'),
+    calculate: require('../../../assets/images/calculate.png'),
+    cancel: require('../../../assets/images/cancel.png'),
+    check: require('../../../assets/images/checkmark.png'),
+    checkPackageType: require('../../../assets/images/check-package-type.png'),
+    close: require('../../../assets/images/cancel-mark.png'),
+    menu: require('../../../assets/images/menu.png'),
+    dropdown: require('../../../assets/images/dropdown.png'),
+    notification: require('../../../assets/images/bell.png'),
+    box: require('../../../assets/images/box.png'),
+    camera: require('../../../assets/images/camera.png'),
+    backArrow: require('../../../assets/images/back-arrow.png'),
+    square: require('../../../assets/images/square-dot.png'),
+    circle: require('../../../assets/images/circle-dot.png'),
+    gps: require('../../../assets/images/gps.png'),
+    sieg: require('../../../assets/images/sieg.jpeg'),
+    smallBackArrow: require('../../../assets/images/small-back-arrow.png'),
+    plus: require('../../../assets/images/plus.png'),
+    down: require('../../../assets/images/down.png'),
+    express: require('../../../assets/images/express.png'),
+    standard: require('../../../assets/images/standard.png'),
+    search: require('../../../assets/images/search.png'),
+    direction: require('../../../assets/images/direction.png'),
+    edit: require('../../../assets/images/edit.png'),
+    mastercard: require('../../../assets/images/mastercard.png'),
+    enterColorBrand: require('../../../assets/images/enter-color-brand.png'),
+    tick: require('../../../assets/images/tick.png'),
+    submit: require('../../../assets/images/submit.png'),
+    request: require('../../../assets/images/request-for-proposal.png'),
+    onwait: require('../../../assets/images/onRequest.png'),
+  
+  };
+  
+  export default images;
+  
